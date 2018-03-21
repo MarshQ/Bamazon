@@ -120,7 +120,7 @@ function addNewProduct() {
         {
             name: "newProduct",
             type: "input",
-            message: "Input name i=of the new product"
+            message: "Input name of the new product"
         },
         {
             name: "newPDept",
